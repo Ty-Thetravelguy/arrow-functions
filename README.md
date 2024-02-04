@@ -1,6 +1,5 @@
-# Arrow Functions
+# Role Playing Game | Dragon Repeller
 
-To use this repository:
-- Click the "Use this template" button in the upper right
-- Choose a name for your repository and create it
-- In your own repository, click the green "Gitpod" button
+In this practice project, I'll learnt fundamental programming concepts in JavaScript by coding my own Role Playing Game. I'll learnt how to work with arrays, strings, objects, functions, loops, if/else statements, and more in a more real life scenario.
+
+I completed the course on [freeCodeCamp](https://www.freecodecamp.org/) and pasted all the code into VS Code.
